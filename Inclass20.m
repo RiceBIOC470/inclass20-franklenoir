@@ -1,4 +1,9 @@
 %Inclass 20
+1 100
+2 100
+3 100 The fit could be better tuned. 
+4. 100
+Overall 100
 
 %In this folder you will find a .mat file with x and y data
 
